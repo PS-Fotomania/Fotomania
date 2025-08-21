@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+echo "# Fotomania" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/PS-Fotomania/Fotomania.git
+git push -u origin main
+
+<html>
+<a href="cilova_adresa.html">Text odkazu</a>
+<head>
+	<title>Fotomania</title>
+</head>
+<body style="background-color: lightblue;">
+	<h1>Ahoj, tady Fotomania tym!</h1>
+	<p>Vitejte na kanale FOTOMANIA...</p>
+</body>
+</html>
