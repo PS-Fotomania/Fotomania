@@ -4,7 +4,8 @@
 <head>
 	<title>Fotomania</title>
 </head>
-<body style="background-color: lightblue;">
+<body style=background-image:
+	url('')>
 	<h1>Ahoj, tady Fotomania tym!</h1>
 	<p>Vitejte na kanale FOTOMANIA...</p>
 </body>
