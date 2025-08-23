@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <a href="https://whatsapp.com/channel/0029VaoM7sc7T8bXnqRS9t00q">Kanal Fotomania</a>
 <head>
